@@ -4,5 +4,8 @@ def main():
     print('2')
 
     print('3')
+
+def feature():
+    print('feature 1')
         
 main()
